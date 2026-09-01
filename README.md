@@ -70,9 +70,11 @@ Designet ble utviklet iterativt gjennom prosjektet og justert på bakgrunn av ti
 
 ### 4. Evaluere og forbedre
 
-Løsningen ble testet med brukere gjennom konkrete oppgaver for å undersøke blant annet navigasjon, forståelighet og brukervennlighet. Tilbakemeldingene fra brukertestingen og sprint reviews ble brukt til å identifisere forbedringsområder og videreutvikle løsningen.
+Jeg gjennomførte brukertesting flere ganger underveis i utviklingen for å undersøke hvordan brukerne opplevde løsningen og identifisere problemer med blant annet navigasjon, forståelighet og brukervennlighet.
 
-Selve brukertestingen ble gjennomført av et annet medlem i prosjektgruppen, mens resultatene inngikk i den videre UX- og utviklingsprosessen.
+Tilbakemeldingene fra brukertestingen ble brukt til å justere og forbedre designet gjennom flere iterasjoner. I den avsluttende evalueringen gjennomførte vi en brukervennlighetstest med fem studenter, basert på konkrete oppgaver og scenarioer.
+
+Denne iterative prosessen gjorde det mulig å evaluere designvalg mot faktiske brukere og videreutvikle løsningen på bakgrunn av funnene.
 
 ---
 
