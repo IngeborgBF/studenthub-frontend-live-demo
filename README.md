@@ -60,11 +60,13 @@ Dette bidro blant annet til å definere tre sentrale områder i løsningen:
 
 ### 3. Utvikle designløsningen
 
-Med brukerbehovene som utgangspunkt arbeidet jeg med UX/UI og utformingen av grensesnittet. Designet hadde særlig fokus på enkelhet, konsistens, tydelig navigasjon og tilgjengelighet.
+Med brukerbehovene og user stories som utgangspunkt arbeidet jeg med å omsette kravene til et intuitivt og tilgjengelig brukergrensesnitt.
 
-Prosessen omfattet blant annet informasjonsarkitektur, prototyping, wireframes, visuelle designvalg og responsivt design. Løsningen ble utviklet iterativt, slik at design og funksjonalitet kunne justeres underveis.
+Jeg jobbet blant annet med informasjonsarkitektur, prototyping, visuell utforming og responsivt design. Wireframes ble brukt i teamet for å visualisere struktur og funksjonalitet før løsningen ble videreutviklet og implementert.
 
-Jeg implementerte også hoveddelen av grensesnittet i HTML og CSS.
+I designarbeidet brukte jeg prinsipper fra ISO 9241-110 og WCAG, med fokus på blant annet tydelig navigasjon, konsistens, lesbarhet, kontraster og et grensesnitt som skulle være enkelt å forstå og lære.
+
+Designet ble utviklet iterativt gjennom prosjektet og justert på bakgrunn av tilbakemeldinger og evalueringer underveis. Jeg implementerte også hoveddelen av grensesnittet i HTML og CSS.
 
 ### 4. Evaluere og forbedre
 
