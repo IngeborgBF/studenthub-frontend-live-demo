@@ -50,7 +50,7 @@ Jeg kartla målgruppen gjennom brukerundersøkelse, analyse av brukskontekst og 
 
 ### 2. Definere brukerbehov og funksjonalitet
 
-Jeg omsatte innsikten fra kartleggingen til konkrete brukerbehov, user stories og krav til løsningens funksjonalitet og design.
+Jeg omsatte brukerinnsikten fra kartleggingen til konkrete brukerbehov og user stories, som dannet grunnlaget for krav til løsningens funksjonalitet og design.
 
 Dette bidro blant annet til å definere tre sentrale områder i løsningen:
 
