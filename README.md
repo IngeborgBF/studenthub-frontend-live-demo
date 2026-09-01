@@ -6,11 +6,11 @@
 ---
 
 ## Om prosjektet  
-StudentHub er en webapplikasjon designet for å hjelpe studenter med å organisere sine akademiske, økonomiske og sosiale aktiviteter i én brukervennlig plattform.  
+StudentHub er en webapplikasjon utviklet for å hjelpe studenter med å organisere faglige, økonomiske og sosiale aktiviteter på én brukervennlig plattform.  
 
 ## Brukersentrert utviklingsprosess  
-Jeg la stor vekt på en **brukersentrert utviklingsprosess** gjennom fire faser for å sikre at applikasjonen møter brukernes behov:  
-1. **Forstå og beskrive bruks-konteksten**: Utførte analyser for å identifisere målgruppens situasjon og utfordringer.  
+Som UX-ansvarlig jobbet jeg etter en **brukersentrert utviklingsprosess** gjennom fire faser, med brukernes behov som utgangspunkt for utviklingen::  
+1. **Forstå og beskrive brukskonteksten**:Kartla målgruppen gjennom brukerundersøkelse, analyse av brukskontekst og brukervaner, persona og konkurranseanalyse for å identifisere studentenes behov og utfordringer.
 2. **Forstå og beskrive brukerkrav**: Samlet innsikt gjennom brukerundersøkelser for å definere konkrete krav til funksjonalitet og design.  
 3. **Utvikle løsningsforslag**: Designet og implementerte grensesnittet med fokus på brukervennlighet og estetikk.  
 4. **Evaluere løsningen**: Testet appen med brukere for å få tilbakemeldinger og gjennomføre forbedringer i design og funksjonalitet.  
