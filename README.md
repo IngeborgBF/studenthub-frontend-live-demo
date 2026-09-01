@@ -2,7 +2,9 @@
 
 **UX/UI-design · Brukersentrert design · Frontend · Scrum**
 
-**Live demo:** https://studenthubapp.netlify.app
+**Frontend-prototype:** https://studenthubapp.netlify.app
+
+Prototypen viser UX/UI-designet og frontend-implementeringen av StudentHub. Den opprinnelige prosjektversjonen inneholdt også interaktiv funksjonalitet, mens denne versjonen er forenklet for å presentere designet.
 
 ---
 
@@ -89,6 +91,8 @@ Sentrale prinsipper i arbeidet var:
 
 ## Hovedfunksjoner
 
+Den opprinnelige prosjektversjonen inneholdt blant annet:
+
 - **Oppgavehåndtering:** Legge til, redigere og arkivere oppgaver.
 - **Budsjett:** Oversikt over inntekter og utgifter.
 - **Sosiale aktiviteter:** Utforske og melde seg på aktiviteter.
@@ -110,7 +114,7 @@ Sentrale prinsipper i arbeidet var:
 
 ---
 
-## Teknologier og arbeidsmetoder
+## Teknologier og arbeidsmetoder i prosjektet
 
 - HTML
 - CSS
@@ -125,6 +129,8 @@ Sentrale prinsipper i arbeidet var:
 
 ## Resultat
 
-StudentHub ble utviklet som en fungerende webapplikasjon der brukerbehov, UX/UI og teknisk utvikling ble jobbet med parallelt gjennom en iterativ prosess.
+StudentHub ble utviklet som en webapplikasjon der brukerbehov, UX/UI og teknisk utvikling ble jobbet med parallelt gjennom en iterativ prosess.
 
-**Se StudentHub live:** https://studenthubapp.netlify.app 🚀
+Den publiserte frontend-prototypen er en forenklet versjon som viser UX/UI-designet og den visuelle implementeringen av løsningen.
+
+**Se frontend-prototypen:** https://studenthubapp.netlify.app 🚀
